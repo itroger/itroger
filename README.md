@@ -4,27 +4,18 @@
 
 ---
 
-### :man_technologist: About Me
-
-:writing_hand: Web Developer
-
-:mortar_board: 2017.09 - 2019.06，Software Engineering，Sun Yat-Sen University.
-
-:mortar_board: 2013.09 - 2017.06，Computer Science，Luoyang Institute of Science and Technology.
-
 ### :star: Projects
 
-<p align='center'>
+<p>
    <img src='./images/web-qrcode.png' width='120' height='120' />
    <img src='./images/mini-qrcode.png' width='120' height='120' />
 </p>
-
 
 ### :rocket: Tech Stack
 
 <ul>
 	<li>
-        <span>Language：</span>
+        <span line-height='30'>Language：</span>
         <span>
             <img src='./images/javascript.svg' width='30' height='30' />
 			<img src='./images/typescript.svg' width='30' height='30' />
@@ -47,6 +38,8 @@
     	<span>
 			<img src='./images/pixi.svg' width='30' height='30' />
             <img src='./images/babylon.svg' width='30' height='30' />
+            <img src='./images/d3.svg' width='30' height='30' />
+            <img src='./images/echarts.svg' width='30' height='30' />
 		</spanp>
     </li>
     <li>
@@ -79,11 +72,11 @@
     </li>
 </ul>
 
-
 ### :handshake: Contact
 
-<p align='center'>
+<p>
     <a href='https://github.com/itroger' target='_blank'><img src='./images/github.svg' width='30' height='30' /></a>
     <a href='./images/wechat.jpg' target='_blank'><img src='./images/wechat.svg' width='30' height='30' /></a>
     <a href='mailto:itroger@outlook.com'><img src='./images/email.svg' width='30' height='30' /></a>
 </p>
+
